@@ -3,6 +3,10 @@ state={
     name="STATE_1"
     
     provinces={ 8296 }
+
+	history = {
+		owner = USA
+	}
     
     manpower=1
     state_category = town
